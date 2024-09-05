@@ -1,24 +1,10 @@
-# Exploring-UNIX-Linux-Shells
+# Exploring UNIX/Linux Shells
 
-HOMEWORK 2
+This repository contains an exploration of different UNIX/Linux shells, comparing their features and use cases. It includes examples of basic shell commands and scripting techniques.
 
-Exploring UNIX/Linux Shells
+### Features:
+- Comparison of popular UNIX/Linux shells.
+- Examples of shell commands and scripts.
 
-Research the following five shells:
+This project helps users understand and work with various UNIX/Linux shell environments.
 
-Bash
-Tcsh/Csh
-Ksh
-Zsh
-Fish
-Summarize each shell to include its history, status, significant features, and usage scenarios (why might you use one shell vs. another?).
-
-Upload a .doc or .docx attachment that includes:
-
-A submission heading:
-Your First and Last Name
-Professor's Name
-Course Name
-Date
-Assignment Name
-A short summary paragraph (four to six sentences) for each shell. Use your own words!
